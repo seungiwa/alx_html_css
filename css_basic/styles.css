@@ -7,6 +7,7 @@ main {
     display: flex;
     flex-direction: row;
     flex: auto;
+    text-align: justify;
 }
 
  article {
@@ -17,6 +18,14 @@ main {
 aside {
     flex: 1;
     overflow-y: auto;
+}
+
+header, footer, main {
+    border: 1px solid rebeccapurple;
+}
+
+h1, h2, h3 {
+    text-align: center;
 }
 
 
