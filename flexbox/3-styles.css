@@ -376,12 +376,12 @@
   }
 
   /* Section SERVICES ============================= */
-  .section-service .section-body .row {
+  .section-body .row {
     flex-wrap: wrap;
   }
   
   /*** 4. CARD ***/
-  
+
   /* Card (all styles)
       ============================= */
   
